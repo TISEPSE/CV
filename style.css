@@ -94,5 +94,15 @@
   .btn{
    position: absolute;
    top: 50%;
-   left: 30%;
+   left: 44%;
   }
+
+  @media all and (max-width: 450px) {
+
+    .btn{
+      position: absolute;
+      top: 50%;
+      left: 35%;
+     }
+    }    
+
